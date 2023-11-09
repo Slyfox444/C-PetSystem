@@ -1,0 +1,15 @@
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\bin\Debug\net7.0\C#PetSystem.exe
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\bin\Debug\net7.0\C#PetSystem.deps.json
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\bin\Debug\net7.0\C#PetSystem.runtimeconfig.json
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\bin\Debug\net7.0\C#PetSystem.dll
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\bin\Debug\net7.0\C#PetSystem.pdb
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\C#PetSystem.csproj.AssemblyReference.cache
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\C#PetSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\C#PetSystem.AssemblyInfoInputs.cache
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\C#PetSystem.AssemblyInfo.cs
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\C#PetSystem.csproj.CoreCompileInputs.cache
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\C#PetSystem.dll
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\refint\C#PetSystem.dll
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\C#PetSystem.pdb
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\C#PetSystem.genruntimeconfig.cache
+C:\Users\sebah\Desktop\Practice-C#\VSC-Practice\C#PetSystem\obj\Debug\net7.0\ref\C#PetSystem.dll
